@@ -1,0 +1,11 @@
+.todo{
+    display: inline;
+}
+.isComplete{
+    border-radius: 100px;
+    width: 1vw;
+    height: 2vh;
+}
+.isComplete .complete{
+    background-color: green;
+}
